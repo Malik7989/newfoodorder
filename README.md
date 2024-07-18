@@ -1,7 +1,8 @@
 <h1 align="center">Food Order</h1>
 <h2 align="center" >Food Ordering Website</h2>
 
-![Uploading Screenshot 2024-07-14 at 12.22.05 PM.png…]()
+
+<img width="1271" alt="Screenshot 2024-07-14 at 12 22 05 PM" src="https://github.com/user-attachments/assets/72e515bb-5613-47be-a0c7-b6a580495794">
 
 
 
